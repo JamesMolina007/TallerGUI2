@@ -1,0 +1,2 @@
+Alumno,Serlio,Giron,serlio.giron@unitec.edu,UNITEC,100.0,200.0
+Profesor,Juan,Mendez,juancarlosmendez21@unitec.edu,CEUTEC,200.0,350.0
